@@ -62,4 +62,4 @@ client.on("messageCreate", message =>{
 
 process.on("unhandledRejection", error => console.error("Promise rejection:", error));
  
-client.login('OTM2MDU0NTQ0NTc4Nzc3MTA5.YfHmug.REDkbENdGkhR4aB0SZ9idbMr-2U')
+client.login('Token')
